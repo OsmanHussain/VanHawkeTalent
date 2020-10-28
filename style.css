@@ -163,12 +163,14 @@ td{
 }
 
 .submit-btn {
-  background-image: url(assets/images/send.png);
+  /*background-image: url(assets/images/send.png);*/
   border: 0;
   outline: 0;
- /* background: transparent;
-  border-bottom: 6px solid burlywood;
-  font-size: 25px;*/
+  background: transparent;
+  /*border-bottom: 6px solid burlywood;*/
+  font-size: 25px;
+  background-image: linear-gradient(to bottom, transparent 50%, #efe2cd 50%);
+  font-family: "Poppins", sans-serif;
 }
 
 .list-ico
@@ -185,6 +187,7 @@ td{
 }
 .cont-tab{
   font-size: 20px;
+  font-family: "Poppins", sans-serif;
   
 }
 /*.input-fields,
