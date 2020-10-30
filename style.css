@@ -95,7 +95,7 @@ section {
 # Hero-bg
 --------------------------------------------------------------*/
 #hero-bg {
-    background: url("assets/images/landingpageimageFinal.jpg") top center ;
+    background: url("assets/images/logoless-bg.jpg") top center ;
     background-size: cover;
     width: 100%;
     height: 134vh;
